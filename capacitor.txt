@@ -1,0 +1,9 @@
+capacitance - 1micro farad
+
+c=q/v
+
+q=i*t
+
+charge q its SI unit is coulomb.
+capacitance SI unit Farad.
+Network file system is the way of munting linux discs and directory over a network

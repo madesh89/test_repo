@@ -1,0 +1,1 @@
+firewall allows you to deffine set of rules which specify which traffic to allow or disallow
